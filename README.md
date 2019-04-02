@@ -3,4 +3,4 @@ This repository contains writeups from various war games and CTF events.
 
 The previously mentioned war games and CTF events are listed below:
 
-- [Over the Wire](http://overthewire.org/wargames/)
+- [Over the Wire](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire)
