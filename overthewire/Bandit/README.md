@@ -16,8 +16,6 @@ Second, if there is no man page, the command might be a shell built-in. In that 
 Also, your favorite search-engine is your friend. Learn how to use it! I recommend Google.
 Lastly, if you are still stuck, you can join us on IRC
 
-> You’re ready to start! Begin with Level 0, linked at the left of this page. Good luck!
-
 ## Levels
 The following is a list of levels provided by [OverTheWire](http://overthewire.org/wargames/) under the wargame [Bandit](http://overthewire.org/wargames/bandit/) 
 - [Level 1](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%201)
