@@ -1,6 +1,6 @@
 # Bandit
 
-The purpose of this directory and its sub-directories is to provide information and writeups of wargames provided [OverTheWire](http://overthewire.org/wargames/) under the wargame [Bandit](http://overthewire.org/wargames/bandit/).
+The purpose of this directory and its sub-directories is to provide information and writeups of wargames provided [OverTheWire](http://overthewire.org/wargames/) under the [Bandit](http://overthewire.org/wargames/bandit/) wargame.
 
 ## Description
 > The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. If you notice something essential is missing or have ideas for new levels, please let us know!
