@@ -18,6 +18,7 @@ Lastly, if you are still stuck, you can join us on IRC
 
 ## Levels
 The following is a list of levels provided by [OverTheWire](http://overthewire.org/wargames/) under the wargame [Bandit](http://overthewire.org/wargames/bandit/) 
+- [Level 0](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%200)
 - [Level 1](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%201)
 - [Level 2](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%202)
 - [Level 3](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%203)
