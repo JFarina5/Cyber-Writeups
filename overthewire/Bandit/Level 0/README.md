@@ -18,7 +18,7 @@ This is a OverTheWire game server. More information on http://www.overthewire.or
 
 bandit0@bandit.labs.overthewire.org's password:
 ```
-Once into the system, we will use the `ls` command in order to see what files and directories are located within this system. Once we use this command, we see that there is one *readme* file:
+Once in the system, we will use the `ls` command in order to see what files and directories are located within this system. Once we use this command, we see that there is one *readme* file:
 ```
 bandit0@bandit:~$ ls
 readme
