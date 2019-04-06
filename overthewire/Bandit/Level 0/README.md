@@ -23,10 +23,10 @@ Once in the system, we will use the `ls` command in order to see what files and 
 bandit0@bandit:~$ ls
 readme
 ```
-In order to view this file, we will use the `cat` command. Once we use this command, we automatically see the password for level 1:
+In order to view this file, we will use the `cat` command. Once we use this command, we are presented with the flag for level 0:
 ```
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 Thus completing level 0, allowing us to move on to level 1.  
-The password for bandit0 is `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
+The flag for bandit0 is `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
