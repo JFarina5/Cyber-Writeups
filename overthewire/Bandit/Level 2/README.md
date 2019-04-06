@@ -27,7 +27,7 @@ bandit2@bandit:~$ ls
 spaces in this filename
 ```
 
-We are presented with quite a strange file name. At first glance we could try to enter the `cat` command followed by *spaces in this filename*, which gives us: 
+We are presented with quite a strange file name. At first glance we could try to enter the `cat` command against the *spaces in this filename* file, which gives us: 
 
 ```
 bandit2@bandit:~$ cat spaces in this filename
