@@ -9,7 +9,7 @@ The purpose of this directory is to provide information and walkthroughs regardi
 
 The following is a list of the different war games provided by [OverTheWire](http://overthewire.org/wargames/):
 - [Bandit](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit)
-- Natas
+- [Natas](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas)
 - Leviathan
 - Krypton
 - Narnia
