@@ -33,5 +33,5 @@ bandit1@bandit:~$ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 
-Once we open this file, we are presented with the flag for level 2. Thus allowing us to move on to level 2.  
+Once we open this file, we are presented with the flag for level 1. Thus allowing us to move on to level 2.  
 The flag for bandit1 is `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
