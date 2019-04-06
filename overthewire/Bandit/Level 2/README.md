@@ -37,7 +37,7 @@ cat: this: No such file or directory
 cat: filename: No such file or directory
 ```
 
-We receive this error because the `cat` command is being used against every argument that is followed by a space. In order to open this file, we must make this phrase one argument. We achieve this by treating this phrase as a string and wrapping it in quotes:
+We receive this error because the `cat` command is being used against every argument that is followed by a space. In order to open this file, we must make this phrase a single argument. We achieve this by treating this phrase as a string and wrapping it in quotes:
 
 ```
 bandit2@bandit:~$ cat "spaces in this filename"
