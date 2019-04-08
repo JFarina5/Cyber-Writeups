@@ -23,7 +23,7 @@ Once in the system, we will use the `ls` command in order to see what files and 
 bandit0@bandit:~$ ls
 readme
 ```
-In order to view this file, we will use the `cat` command. Once we use this command, we are presented with the flag for level 0:
+In order to view this file, we will use the `cat` command. After using this command, we are presented with the flag for level 0:
 ```
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
