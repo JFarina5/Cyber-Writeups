@@ -17,7 +17,7 @@ The purpose of this directory and its sub-directories is to provide information 
 
 ## Levels
 The following is a list of completed levels provided by [OverTheWire](http://overthewire.org/wargames/) under the wargame [Natas](http://overthewire.org/wargames/natas/) 
-- Level 0
-- Level 1
-- Level 2
-- Level 3
+- [Level 0](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas/Level%200)
+- [Level 1](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas/Level%201)
+- [Level 2](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas/Level%202)
+- [Level 3](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas/Level%203)
