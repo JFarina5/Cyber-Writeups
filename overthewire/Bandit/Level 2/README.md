@@ -3,7 +3,7 @@
 > The password for the next level is stored in a file called spaces in this filename located in the home directory
 -------------
 
-## Write-UP
+## Write-up
 
 For this level we follow the same procedure as the previous levels by using the `ssh` command followed by the appropriate address for this level, bandit2/overthewire on port 2220:
 
