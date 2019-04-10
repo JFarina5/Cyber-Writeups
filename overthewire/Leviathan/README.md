@@ -37,9 +37,7 @@ Password: leviathan0
 
 ## Levels
 The following is a list of completed levels provided by [OverTheWire](http://overthewire.org/wargames/) under the wargame [Leviathan](http://overthewire.org/wargames/leviathan/) 
-- [Level 0](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%200)
-- [Level 1](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%201)
-- [Level 2](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%202)
-- [Level 3](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%203)
-- [Level 4](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%204)
-- [Level 5](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit/Level%205)
+- [Level 0](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Leviathan/Level%200)
+- [Level 1](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Leviathan/Level%201)
+- [Level 2](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Leviathan/Level%202)
+- [Level 3](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Leviathan/Level%203)
