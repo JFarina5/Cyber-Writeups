@@ -5,7 +5,7 @@
 ------------
 
 ## Write-up
-The purpose of this level is to log in to the system and, easily acquire our first flag. To begin with, start by entering the `ssh` command behind the bandit0/overthewire address, followed by the appropriate port number of 2220 with the `-p` command:
+The purpose of this level is to log in to the system and acquire our first flag. To begin with, start by entering the `ssh` command behind the bandit0/overthewire address, followed by the appropriate port number of 2220 with the `-p` command:
 
 ```
 root@kali:~# ssh bandit0@bandit.labs.overthewire.org -p 2220
