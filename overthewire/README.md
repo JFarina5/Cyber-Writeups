@@ -7,7 +7,7 @@ The purpose of this directory is to provide information and walkthroughs regardi
 
 ## War Games
 
-The following is a list of the different war games provided by [OverTheWire](http://overthewire.org/wargames/):
+The following is a list of the different war games provided by [OverTheWire](http://overthewire.org/wargames/). Links have been provided based upon the completion of each wargame:
 - [Bandit](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Bandit)
 - [Natas](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Natas)
 - [Leviathan](https://github.com/JFarina5/Cyber-Writeups/tree/master/overthewire/Leviathan)
