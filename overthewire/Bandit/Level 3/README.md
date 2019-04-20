@@ -55,5 +55,5 @@ bandit3@bandit:~/inhere$ cat ./.hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 
-Which presents use with the flag for bandit3, allowing us to move on to bandit4
+Which presents use with the flag for bandit3, allowing us to move on to bandit4  
 The password for bandit3 is `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
