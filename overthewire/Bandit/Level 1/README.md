@@ -4,7 +4,7 @@
 ------------
 
 ## Write-up
-To begin this level, we follow the same procedure as bandit0, with the `ssh` command followed by a slightly different address of  bandit1/overthewire on port 2220:
+Following the same procedure as bandit0, we use the `ssh` command followed by a slightly different address of  bandit1/overthewire on port 2220:
 
 ```
 root@kali:~# ssh bandit1@bandit.labs.overthewire.org -p 2220
